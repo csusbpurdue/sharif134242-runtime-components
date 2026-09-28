@@ -1,0 +1,12 @@
+[user]
+    name = Alisha Sharif
+    email = sharif13@purdue.edu
+
+[init]
+    defaultBranch = main
+
+[core]
+    editor = vim
+
+[pull]
+    rebase = true
